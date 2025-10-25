@@ -1,18 +1,25 @@
 # Bhavesh-Bhat
 Know Me
+# 👋 Hi, I'm Bhavesh Bhat  
 
+🚀 **Full-Stack Web Developer** | React | Node.js | MongoDB | TailwindCSS  
+💼 Founder @ Azoryix — Building digital products for brands  
+🌱 Currently contributing to open source and building developer-focused tools  
 
-👋 Hi, I'm Bhavesh Bhat
+### 🧠 What I Do
+- Build dynamic web apps using **MERN Stack**
+- Create responsive UIs with **TailwindCSS** and **Next.js**
+- Design and deploy real-world projects (Resume Builder, Portfolio Generator, etc.)
 
-🚀 Full-Stack Web Developer | React | Node | MongoDB | Open Source   
-🌱 Currently building Resume & Portfolio Builder for Students  
-🧠 Exploring Next.js 15 and AI Integrations  
-📫 Reach me: [LinkedIn](https://linkedin.com/in/bhaveshh-bhat-642932228) | [Email](bhaveshbhat2004@gmail.com)
+### 🔥 Featured Projects
+- 🧾 **Resume Builder** — AI-powered, ATS-friendly resume creator  
+- 🌤️ **Weather App** — Real-time forecast using OpenWeather API  
+- 🖥️ **Portfolio Generator** — Auto portfolio creation for students
 
 ### 🛠️ Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Tools:** Git, GitHub, Vercel, Render, Postman  
+**Frontend:** React, Next.js, TailwindCSS, JavaScript  
+**Backend:** Node.js, Express.js, MongoDB  
+**Tools:** Git, GitHub, VS Code, Vercel, Render  
 
-### 📊 GitHub Stats
-![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshbhat&show_icons=true&theme=react)
+📫 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/bhaveshh-bhat-642932228/) | [GitHub](https://github.com/bhavesh0001)
