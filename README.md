@@ -1,5 +1,5 @@
 # Bhavesh-Bhat
-Know Me
+Know About me
 # 👋 Hi, I'm Bhavesh Bhat  
 
 🚀 **Full-Stack Web Developer** | React | Node.js | MongoDB | TailwindCSS  
@@ -21,5 +21,5 @@ Know Me
 **Backend:** Node.js, Express.js, MongoDB  
 **Tools:** Git, GitHub, VS Code, Vercel, Render  
 
-📫 **Connect with me:**  
+📫 **Connect with me:**
 [LinkedIn](https://www.linkedin.com/in/bhaveshh-bhat-642932228/) | [GitHub](https://github.com/bhavesh0001)
